@@ -1,0 +1,109 @@
+h1{
+	color: white;
+	background-color: coral;
+	text-align: center;
+}
+
+#go{
+	color:black;
+	
+}
+#go ul{
+	padding: 0;
+	list-style: none;
+	
+}
+#go li{
+    display:inline;
+    font-size: 18px;
+    padding-right:15px;
+    text-decoration: none;
+    
+    
+}
+
+
+h2{
+	text-align:center;
+    font-family:sans-serif;
+  
+}
+h3{
+	margin: auto;
+    padding-left: 0;
+    text-align: center;
+    
+}
+.skill{
+	text-align: center;
+	padding: 0;
+	margin: auto;
+
+}
+body {
+	background-color:  #99e6ff;
+	font-family:sans-serif;
+	width:70%
+	
+	
+}
+ ol{
+ 	padding: 0;
+ 	margin: auto;
+ 	text-align: center;
+ 	
+ 	
+ }
+ li{
+ 	text-align: center;
+ 	list-style: none;
+ 	padding-left: 15px;
+ 	
+
+ }
+h5{
+	text-align: center;
+	margin-left: 200px;
+	
+}	
+h4{
+	text-align: center;
+	padding-left: 30px;
+	
+}
+#bot{
+	
+	text-align: center;
+	
+	
+}
+#bot button{
+	
+	color: white;
+	background-color:grey;
+	
+}
+.copycat{
+	text-align: center;
+	background-color: black;
+	color: white;
+	font-size: 20px;
+	
+}
+.comali{
+	color:black;
+	font-size: 18px;
+	text-align: center;
+
+
+}
+.email{
+   box-sizing: 20px;
+   box-decoration-break: blue;
+   text-align: center;
+   background-image: url('jagadish.jpg');
+  }
+
+.back{
+	background-image: url('pep.jpg');
+}
